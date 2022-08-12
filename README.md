@@ -1,7 +1,7 @@
 <h1 align="center">Hi (•◡•)/ , I am Atakan</h1>
-<h3 align="center">I am a 3rd year computer science & engineering student who is interested in back-end development.</h3>
+<h3 align="center">I am a 4th year computer science & engineering student at Akdeniz University with a GPA of 3.07.</h3>
 
-- 🔭 I’m currently learning **Flask for IoT, C# & Node.js for web back-end development**
+- 🧑‍💼 I’m currently working at **Jotform** as a **DevOps** intern. The products I use at Jotform are **Ansible, Terraform, and Jenkins**
 
 - 📫 How to reach me **atakanyontar@gmail.com**
 
