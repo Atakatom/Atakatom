@@ -1,7 +1,7 @@
 <h1 align="center">Hi (•◡•)/ , I am Atakan</h1>
-<h3 align="center">I am a 4th year computer science & engineering student at Akdeniz University with a GPA of 3.07.</h3>
+<h3 align="center">I am a Fresh Graduate Software Engineer with a GPA of 3.26.</h3>
 
-- I’m currently working as a DevOps Intern **at Jotform**
+- I’m currently working as a Software Engineer Intern **at Fibabanka**
 
 - 🔭 The tools that I use are **Ansible, Jenkins, Terraform, and GCP**
 
